@@ -1,0 +1,149 @@
+Iteration 1:
+Initial Guess: [2.95472907 2.61771357]  
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 2:
+Initial Guess: [ 4.30123767 -1.15871053]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 3:
+Initial Guess: [2.27566902 2.25615281]  
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 4:
+Initial Guess: [2.22743902 3.40213138]  
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 5:
+Initial Guess: [-1.52261829  1.86223561] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 6:
+Initial Guess: [-2.14202573 -2.1104502 ] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 7:
+Initial Guess: [-4.62240731  3.86954455] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 8:
+Initial Guess: [-1.30403811  1.54158083] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 9:
+Initial Guess: [3.74257158 4.2771315 ]   
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 10:
+Initial Guess: [-1.61203754 -3.24190284] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 11:
+Initial Guess: [ 3.31074764 -1.74037331] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 12:
+Initial Guess: [-0.97194148  0.14905714] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 13:
+Initial Guess: [-2.1021449   0.55070444] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 14:
+Initial Guess: [-4.46931119  1.75910309] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 15:
+Initial Guess: [0.11490162 3.14196699]   
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 16:
+Initial Guess: [-0.46820648 -4.25594323] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 17:
+Initial Guess: [ 0.76890758 -0.5250762 ] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 18:
+Initial Guess: [ 3.6368942  -1.92948928] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 19:
+Initial Guess: [ 3.75309373 -0.274854  ] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 20:
+Initial Guess: [-1.32558007  2.63904325] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 21:
+Initial Guess: [-1.68060061 -0.83074087]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 22:
+Initial Guess: [ 4.37815235 -3.66803184] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 23:
+Initial Guess: [1.45515554 0.80875765]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 24:
+Initial Guess: [-0.74010293  2.66351626] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 25:
+Initial Guess: [-1.17986825 -3.20653375] 
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 26:
+Initial Guess: [ 3.69531853 -4.85327537]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 27:
+Initial Guess: [0.66208204 0.78524209]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 28:
+Initial Guess: [0.91395002 0.3947573 ]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 29:
+Initial Guess: [ 3.60240212 -2.77473513]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
+
+Iteration 30:
+Initial Guess: [-4.67273062 -1.23424291]
+Minimum: 0.0
+Location of Minimum: [0. 0.]
